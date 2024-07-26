@@ -1,0 +1,4 @@
+Problem statement
+--------------------
+Given a string with multiple alphabets in a random fashion. Count the maximum occurrence of a particular character.
+Use suitable data-structure, and give an optimal solution considering the complexity of the problem.
